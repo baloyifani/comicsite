@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13924611-33AB-4DEC-BE2A-2AA4F26F8DF0}"
+	ProjectSection(SolutionItems) = preProject
+		100Bullets.jpg = 100Bullets.jpg
+		2140701d54348f19064e85b9aa3939e1.jpg = 2140701d54348f19064e85b9aa3939e1.jpg
+		absoluteTransmetropolitan.jpg = absoluteTransmetropolitan.jpg
+		batman.jpg = batman.jpg
+		CaptainAmerica.jpg = CaptainAmerica.jpg
+		contactPage.html = contactPage.html
+		daredevil.jpg = daredevil.jpg
+		fables.jpg = fables.jpg
+		Gallery.html = Gallery.html
+		greenLantern.jpg = greenLantern.jpg
+		hellBoy.jpg = hellBoy.jpg
+		Home.html = Home.html
+		kickass.jpg = kickass.jpg
+		msMarvel.jpg = msMarvel.jpg
+		planetary.jpg = planetary.jpg
+		promethea.jpg = promethea.jpg
+		Runaways.jpg = Runaways.jpg
+		saga.jpg = saga.jpg
+		Script.js = Script.js
+		spiderman.jpg = spiderman.jpg
+		starman.jpg = starman.jpg
+		strangersInParadise.jpg = strangersInParadise.jpg
+		style.css = style.css
+		superman.jpg = superman.jpg
+		testPage.html = testPage.html
+		testStyle.css = testStyle.css
+		theAuthority.jpg = theAuthority.jpg
+		thePunisher.jpg = thePunisher.jpg
+		wanted.jpg = wanted.jpg
+		wpid-photo-13-01-2013-1153.jpg = wpid-photo-13-01-2013-1153.jpg
+		x-men.jpg = x-men.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8C610D-6D43-45E0-9C85-05AE34A974D9}
+	EndGlobalSection
+EndGlobal
